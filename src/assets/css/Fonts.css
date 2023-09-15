@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Sohne-Bold';
+  src: local('TestSohne-Fett'), url('../fonts/Sohne/TestSohne-Fett.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Sohne-Medium';
+  src: local('TestSohne-Kräftig'), url('../fonts/Sohne/TestSohne-Kraftig.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Sohne-Regular';
+  src: local('TestSohne-Buch'), url('../fonts/Sohne/TestSohne-Buch.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Sohne-SemiBold';
+  src: local('TestSohne-Halbfett'), url('../fonts/Sohne/TestSohne-Halbfett.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BasisGrotesqueMonoPro-Light';
+  src: local('BasisGrotesqueMonoPro-Light'),
+    url('../fonts/BasisGrotesqueMonoPro/BasisGrotesqueMonoPro-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'BasisGrotesqueMonoPro-Regular';
+  src: local('BasisGrotesqueMonoPro-Regular'),
+    url('../fonts/BasisGrotesqueMonoPro/BasisGrotesqueMonoPro-Regular.ttf') format('truetype');
+}

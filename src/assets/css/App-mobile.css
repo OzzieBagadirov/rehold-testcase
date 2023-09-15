@@ -1,0 +1,12 @@
+@media screen and (max-width: 990px) {
+  html {
+    font-size: max(12px, 2.2vw);
+  }
+  .mobile {
+    display: flex !important;
+  }
+
+  .desktop {
+    display: none !important;
+  }
+}

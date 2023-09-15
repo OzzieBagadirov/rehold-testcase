@@ -1,0 +1,151 @@
+#root {
+  white-space: pre-line;
+}
+
+/* ---------------------------------------------------------------------------------
+    FONT FAMILIES
+--------------------------------------------------------------------------------- */
+
+/* Sans-Serif Regular */
+.txt-serif-regular {
+  font-family: 'Sohne-Regular';
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Sans-Serif Medium */
+.txt-serif-medium {
+  font-family: 'Sohne-Medium';
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Mono Light */
+.txt-mono-light {
+  font-family: 'BasisGrotesqueMonoPro-Light';
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 0 !important;
+}
+
+/* Mono Regular */
+.txt-mono-regular {
+  font-family: 'BasisGrotesqueMonoPro-Regular';
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0 !important;
+}
+
+/* ---------------------------------------------------------------------------------
+    FONT SIZES
+--------------------------------------------------------------------------------- */
+
+/* 12 px */
+.txt-sz-xs {
+  font-size: 0.75rem;
+  line-height: 150%;
+  letter-spacing: -0.02rem;
+}
+
+/* 14 px */
+.txt-sz-s {
+  font-size: 0.875rem;
+  line-height: 150%;
+  letter-spacing: -0.02rem;
+}
+
+/* 16 px */
+.txt-sz-m {
+  font-size: 1rem;
+  line-height: 150%;
+  letter-spacing: -0.02rem;
+}
+
+/* 18 px */
+.txt-sz-l {
+  font-size: 1.125rem;
+  line-height: 150%;
+  letter-spacing: -0.02rem;
+}
+
+/* 20 px */
+.txt-sz-xl {
+  font-size: 1.25rem;
+  line-height: 150%;
+  letter-spacing: -0.02rem;
+}
+
+/* 22 px */
+.txt-sz-xxl {
+  font-size: 1.375rem;
+  line-height: 150%;
+  letter-spacing: -0.02rem;
+}
+
+/* 40 px */
+.txt-sz-big-s {
+  font-size: 2.5rem;
+  line-height: 130%;
+  letter-spacing: -0.03rem;
+}
+
+/* 48 px */
+.txt-sz-big-m {
+  font-size: 3rem;
+  line-height: 130%;
+  letter-spacing: -0.03rem;
+}
+
+/* 64 px */
+.txt-sz-big-l {
+  font-size: 4rem;
+  line-height: 130%;
+  letter-spacing: -0.03rem;
+}
+
+/* 76 px */
+.txt-sz-big-xl {
+  font-size: 4.75rem;
+  line-height: 130%;
+  letter-spacing: -0.03rem;
+}
+
+/* ---------------------------------------------------------------------------------
+    FONT LINE HEIGHT
+--------------------------------------------------------------------------------- */
+
+.txt-lh-80 {
+  line-height: 80% !important;
+}
+
+.txt-lh-90 {
+  line-height: 90% !important;
+}
+
+.txt-lh-100 {
+  line-height: 100% !important;
+}
+
+.txt-lh-110 {
+  line-height: 110% !important;
+}
+
+.txt-lh-120 {
+  line-height: 120% !important;
+}
+
+.txt-lh-130 {
+  line-height: 130% !important;
+}
+
+.txt-lh-140 {
+  line-height: 140% !important;
+}
+
+.txt-lh-150 {
+  line-height: 150% !important;
+}
+
+.txt-lh-200 {
+  line-height: 200% !important;
+}

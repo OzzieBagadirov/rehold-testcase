@@ -1,0 +1,14 @@
+{
+  "importSorter.importStringConfiguration.quoteMark": "single",
+  "importSorter.importStringConfiguration.spacingPerImportExpression.afterComma": 1,
+  "importSorter.importStringConfiguration.spacingPerImportExpression.afterStartingBracket": 1,
+  "importSorter.importStringConfiguration.spacingPerImportExpression.beforeComma": 0,
+  "importSorter.importStringConfiguration.spacingPerImportExpression.beforeEndingBracket": 1,
+  "importSorter.importStringConfiguration.trailingComma": "multiLine",
+  "importSorter.importStringConfiguration.tabSize": 2,
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.type": "newLineEachExpressionAfterCountLimitExceptIfOnlyOne",
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 100,
+  "importSorter.sortConfiguration.customOrderingRules.defaultNumberOfEmptyLinesAfterGroup": 1,
+  "importSorter.sortConfiguration.removeUnusedImports": true,
+  "importSorter.sortConfiguration.removeUnusedDefaultImports": true
+}
